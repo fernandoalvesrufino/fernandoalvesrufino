@@ -1,7 +1,6 @@
-<h3 align="center">  
-Olá, eu sou o Fernando!
-</h3>
-  
+## Olá, eu sou o Fernando!
+
+
 - 💻 Trabalho com Back-end
 - 🌱 Estudando Python
 
