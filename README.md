@@ -1,6 +1,8 @@
-## Olá, eu sou o Fernando!
-
-- 🔭 Trabalho com Back-end
+<h3 align="center">  
+Olá, eu sou o Fernando!
+</h3>
+  
+- 💻 Trabalho com Back-end
 - 🌱 Estudando Python
 
 <div align="center">
