@@ -1,5 +1,4 @@
 
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=OLÁ;Seja+bem+vindo+ao+meu+perfil)](https://git.io/typing-svg)
 
 <h3 align="center">
@@ -23,6 +22,9 @@ Eu sou o Fernando!
 ### Principais habilidades:
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+<img src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png?w=360" width="21" height="21"> ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html&labelColor=0D1117)&nbsp;
+<img src="https://seeklogo.com/images/C/css-3-logo-023C1A7171-seeklogo.com.png" width="21" height="21"> ![CSS](https://img.shields.io/badge/-css-0D1117?style=for-the-badge&logo=css&labelColor=0D1117)&nbsp;
+
 
 ### Frameworks:
 ![Django](https://img.shields.io/badge/-django-0D1117?style=for-the-badge&logo=django&logoColor=1572B6&labelColor=0D1117)&nbsp;
