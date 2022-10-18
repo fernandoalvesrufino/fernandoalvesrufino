@@ -7,10 +7,10 @@ Eu sou o Fernando!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
+  <img align="center" alt="Rafa-Python" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png"> 
 </div>
 
-#### Desenvolvedor Web / Backend
+#### Desenvolvedor Web / Fullstack
 
   #
 
@@ -19,6 +19,7 @@ Eu sou o Fernando!
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
 <img src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png?w=360" width="21" height="21"> ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html&labelColor=0D1117)&nbsp;
 <img src="https://seeklogo.com/images/C/css-3-logo-023C1A7171-seeklogo.com.png" width="21" height="21"> ![CSS](https://img.shields.io/badge/-css-0D1117?style=for-the-badge&logo=css&labelColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 
 
@@ -38,10 +39,9 @@ Eu sou o Fernando!
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
   
 ### Estudando no momento:
-![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Django](https://img.shields.io/badge/-django-0D1117?style=for-the-badge&logo=django&logoColor=1572B6&labelColor=0D1117)&nbsp;
 <img src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png?w=360" width="21" height="21"> ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html&labelColor=0D1117)&nbsp;
 <img src="https://seeklogo.com/images/C/css-3-logo-023C1A7171-seeklogo.com.png" width="21" height="21"> ![CSS](https://img.shields.io/badge/-css-0D1117?style=for-the-badge&logo=css&labelColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
  
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=fernandoalvesrufino&theme=gotham&hide_border=true&area=true)
   
