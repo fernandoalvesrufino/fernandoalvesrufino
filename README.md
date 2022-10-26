@@ -14,14 +14,26 @@ Eu sou o Fernando!
 
   #
 
+<h3>
+SOBRE MIM
+</h3>
+
+
+Atualmente, trabalho como TÉCNICO MASTER AUTOMOTIVO focado em diagnósticos elétricos e mecânicos dos veículos. Trabalho com veículos importados das marcas Jaguar e Land Rover. Mas estou em transição de carreira!
+
+Tenho 26 anos. Estou em busca de uma oportunidade na area de TI como desenvolvedor web. Logo que comecei a estudar a respeito fiquei impressionado com o que é possível fazer com programação. A possibilidade de resolver problemas, transformar idéias em algo real e transformar vidas é incrível! Mas o que me impressionou de verdade na área foi que a programação pode nos "dar mais TEMPO"! 
+
+O tempo é o ativo mais importante que existe, porque ele é o mais escasso. Todo mundo gostaria de ter mais tempo. Mas às vezes perdemos muito tempo com tarefas repetitivas. Mas a programação pode dar esse tempo de presente pra nós! E isso nos faz ter mais tempo. Eu quero poder resolver problemas, transformar vidas, transformar idéias e "dar mais TEMPO" para as pessoas. 
+
+Como não estou atuando como desenvolvedor ainda, estou compartilhando aqui no meu perfil do GitHub os meus estudos e projetos. Espero poder contribuir com meus aprendizados e conhecimentos. 
+
+  #
 
 ### Principais habilidades:
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 <img src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png?w=360" width="21" height="21"> ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html&labelColor=0D1117)&nbsp;
 <img src="https://seeklogo.com/images/C/css-3-logo-023C1A7171-seeklogo.com.png" width="21" height="21"> ![CSS](https://img.shields.io/badge/-css-0D1117?style=for-the-badge&logo=css&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-
 
 ### Frameworks:
 ![Django](https://img.shields.io/badge/-django-0D1117?style=for-the-badge&logo=django&logoColor=1572B6&labelColor=0D1117)&nbsp;
@@ -39,6 +51,7 @@ Eu sou o Fernando!
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
   
 ### Estudando no momento:
+![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
 <img src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png?w=360" width="21" height="21"> ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html&labelColor=0D1117)&nbsp;
 <img src="https://seeklogo.com/images/C/css-3-logo-023C1A7171-seeklogo.com.png" width="21" height="21"> ![CSS](https://img.shields.io/badge/-css-0D1117?style=for-the-badge&logo=css&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
