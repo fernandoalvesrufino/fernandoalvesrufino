@@ -23,9 +23,9 @@ Atualmente, trabalho como TÉCNICO MASTER AUTOMOTIVO focado em diagnósticos el�
 
 Tenho 26 anos. Estou em busca de uma oportunidade na area de TI como desenvolvedor web. Logo que comecei a estudar a respeito fiquei impressionado com o que é possível fazer com programação. A possibilidade de resolver problemas, transformar idéias em algo real e transformar vidas é incrível! Mas o que me impressionou de verdade na área foi que a programação pode nos "dar mais TEMPO"! 
 
-O tempo é o ativo mais importante que existe, porque ele é o mais escasso. Todo mundo gostaria de ter mais tempo. Mas às vezes perdemos muito tempo com tarefas repetitivas. Mas a programação pode dar esse tempo de presente pra nós! E isso nos faz ter mais tempo. Eu quero poder resolver problemas, transformar vidas, transformar idéias e "dar mais TEMPO" para as pessoas. 
+O tempo é o ativo mais importante que existe, porque ele é o mais escasso. Todo mundo gostaria de ter mais. Mas às vezes perdemos muito do nosso tempo com tarefas repetitivas. Mas a programação pode dar esse tempo de PRESENTE pra nós! Eu quero poder resolver problemas, transformar vidas, transformar idéias e "dar mais TEMPO" para as pessoas através da programação. 
 
-Como não estou atuando como desenvolvedor ainda, estou compartilhando aqui no meu perfil do GitHub os meus estudos e projetos. Espero poder contribuir com meus aprendizados e conhecimentos. 
+Como não estou atuando como desenvolvedor ainda, estou compartilhando aqui no meu perfil do GitHub os meus estudos e projetos. Espero poder contribuir através dos meus aprendizados e conhecimentos. 
 
   #
 
