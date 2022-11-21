@@ -61,10 +61,10 @@ Como não estou atuando como desenvolvedor ainda, estou compartilhando aqui no m
   ![Snake animation](https://github.com/fernandoalvesrufino/fernandoalvesrufino/blob/output/github-contribution-grid-snake.svg)
 
 <div> 
-  <a href="https://www.linkedin.com/in/fernando-alves-rufino" target="_blank"><img src="https://img.shields.io/badge/-Telegram-red?color=white&logo=telegram&logoColor=black" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/fernando-alves-rufino" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-red?color=white&logo=linkedin&logoColor=blue" target="_blank"></a> 
+  <a href="https://bit.ly/portfolio-fernando-rufino" target="_blank"><img src="https://img.shields.io/badge/-www%20Portfólio-red?color=blue&logo=web-site&logoColor=white" target="_blank"></a>
   <a href = "mailto:devfernandorufino@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?color=%23333&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/devfernandorufino" target="_blank"><img src="https://img.shields.io/badge/-Instagram-red?color=DD2A7B&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://bit.ly/portfolio-fernando-rufino" target="_blank"><img src="https://img.shields.io/badge/-www%20Portfólio-red?color=blue&logo=web-site&logoColor=white" target="_blank"></a>
   
 </div>
 
