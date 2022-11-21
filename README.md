@@ -61,10 +61,11 @@ Como não estou atuando como desenvolvedor ainda, estou compartilhando aqui no m
   ![Snake animation](https://github.com/fernandoalvesrufino/fernandoalvesrufino/blob/output/github-contribution-grid-snake.svg)
 
 <div> 
-  <a href="https://www.linkedin.com/in/fernando-alves-rufino" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:devfernandorufino@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/devfernandorufino" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-     
+  <a href="https://www.linkedin.com/in/fernando-alves-rufino" target="_blank"><img src="https://img.shields.io/badge/-Telegram-red?color=white&logo=telegram&logoColor=black" target="_blank"></a> 
+  <a href = "mailto:devfernandorufino@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?color=%23333&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/devfernandorufino" target="_blank"><img src="https://img.shields.io/badge/-Instagram-red?color=DD2A7B&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://bit.ly/portfolio-fernando-rufino" target="_blank"><img src="https://img.shields.io/badge/-Portfólio-red?color=blue&logo=web-site&logoColor=white" target="_blank"></a>
+  
 </div>
 
   <div align="center">
