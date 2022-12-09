@@ -56,8 +56,7 @@ Como não estou atuando como desenvolvedor ainda, estou compartilhando aqui no m
 <img src="https://seeklogo.com/images/C/css-3-logo-023C1A7171-seeklogo.com.png" width="21" height="21"> ![CSS](https://img.shields.io/badge/-css-0D1117?style=for-the-badge&logo=css&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
  
-![Contribution](https://activity-graph.herokuapp.com/graph?username=fernandoalvesrufino&theme=gotham&hide_border=true&area=true)
-  
+ 
   ![Snake animation](https://github.com/fernandoalvesrufino/fernandoalvesrufino/blob/output/github-contribution-grid-snake.svg)
 
 <div> 
