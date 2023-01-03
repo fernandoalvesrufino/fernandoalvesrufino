@@ -55,7 +55,9 @@ Como não estou atuando como desenvolvedor ainda, estou compartilhando aqui no m
 ### Estudando no momento:
 <img align="center" alt="logo js" height="15" width="15" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"> <strong>JAVASCRIPT </strong> &nbsp;
 <img align="center" alt="logo react.js" height="15" width="15" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"> <strong>REACT.JS </strong> &nbsp;
-<img align="center" alt="logo node.js" height="15" width="15" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png"> <strong>NODE.JS </strong>
+<img align="center" alt="logo node.js" height="15" width="15" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png"> <strong>NODE.JS </strong> &nbsp;
+<img align="center" alt="logo sql" height="15" width="15" src="https://www.freeiconspng.com/thumbs/sql-server-icon-png/sql-server-icon-png-29.png"> <strong>SQL </strong> &nbsp;
+
 
  
   ![Snake animation](https://github.com/fernandoalvesrufino/fernandoalvesrufino/blob/output/github-contribution-grid-snake.svg)
