@@ -20,13 +20,10 @@ SOBRE MIM
 </h3>
 
 
-Atualmente, trabalho como TÉCNICO MASTER AUTOMOTIVO focado em diagnósticos elétricos e mecânicos dos veículos. Trabalho com veículos importados das marcas Jaguar e Land Rover. A cada dia que passa, as marcas automotiva de luxo adicionam mais e mais recursos tecnológicos aos seus veículos, tornando ainda mais complexo a realização de diagnóstico de falhas. Por isso, contamos com o auxílio de ferramentas tecnológicas (scanner automotivo, equipamentos de testes, manual online...) que facilitam muito o nosso dia a dia. E essas ferramentas só existem por causa da PROGRAMAÇÃO. Esse foi um dos motivos que me fizeram querer ir mais além, e mudar de carreira!
-
-Tenho 26 anos. Estou em busca de uma oportunidade na area de TI como desenvolvedor web. Logo que comecei a estudar a respeito fiquei impressionado com o que é possível fazer com programação. A possibilidade de resolver problemas, facilitar o trabalho de alguém, transformar idéias em algo real e transformar vidas é incrível! Mas o que me impressionou de verdade na área foi que a programação pode nos "dar mais TEMPO"! 
+Tenho 26 anos. Estou em busca de uma oportunidade na area de TI como desenvolvedor web. Logo que comecei a estudar a respeito fiquei impressionado com o que é possível fazer com programação. A possibilidade de resolver problemas, facilitar o trabalho de alguém, transformar idéias em algo real e transformar vidas! Mas o que me impressionou de verdade na área foi que a programação pode nos "dar mais TEMPO"! 
 
 O tempo é o ativo mais importante que existe, porque ele é o mais escasso. Todo mundo gostaria de ter mais. Mas, às vezes, perdemos muito do nosso tempo com tarefas repetitivas ou que demorariam muito para serem executadas. Mas a programação pode dar esse tempo de PRESENTE pra nós! Eu quero poder resolver problemas, transformar vidas, transformar idéias, facilitar o trabalho de alguém e "dar mais TEMPO" para as pessoas através da programação. 
 
-Como não estou atuando como desenvolvedor ainda, estou compartilhando aqui no meu perfil do GitHub os meus estudos e projetos. Espero poder contribuir através dos meus aprendizados e conhecimentos. 
 
   #
 
