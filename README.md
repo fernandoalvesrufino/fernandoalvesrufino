@@ -1,6 +1,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=OLÁ;Seja+bem+vindo+ao+meu+perfil)](https://git.io/typing-svg)
 
+
 <h3 align="center">
 Eu sou o Fernando!
 </h3>
@@ -12,6 +13,15 @@ Eu sou o Fernando!
 </div>
 
 #### Desenvolvedor Web / Front-end
+
+
+<div> 
+  <a href="https://www.linkedin.com/in/fernando-alves-rufino" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-red?color=white&logo=linkedin&logoColor=blue"></a> 
+  <a href="https://fernandoalvesrufino.github.io/meu-portfolio" target="_blank"><img src="https://img.shields.io/badge/-www%20Portfólio-red?color=blue&logo=web-site&logoColor=white"></a>
+  <a href = "mailto:devfernandorufino@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?color=%23333&logo=gmail&logoColor=white"></a>
+  <a href="https://instagram.com/devfernandorufino" target="_blank"><img src="https://img.shields.io/badge/-Instagram-red?color=DD2A7B&logo=instagram&logoColor=white"></a>
+  
+</div>
 
   #
 
@@ -27,17 +37,17 @@ O tempo é o ativo mais importante que existe, porque ele é o mais escasso. Tod
 
   #
 
-### Principais habilidades:
+### Skills:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
-<img src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png?w=360" width="21" height="21"> ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html&labelColor=0D1117)&nbsp;
-<img src="https://seeklogo.com/images/C/css-3-logo-023C1A7171-seeklogo.com.png" width="21" height="21"> ![CSS](https://img.shields.io/badge/-css-0D1117?style=for-the-badge&logo=css&labelColor=0D1117)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=css3&labelColor=0D1117&logoColor=blue)
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
 
 ### Frameworks:
 ![Bulma](https://img.shields.io/badge/-bulma-0D1117?style=for-the-badge&logo=bulma&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
-### Ferramentas:
+### Tools:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
 ![PyCharm](https://img.shields.io/badge/-PyCharm-0D1117?style=for-the-badge&logo=pycharm&labelColor=0D1117)&nbsp;
 ![GoogleColab](https://img.shields.io/badge/-GoogleColab-0D1117?style=for-the-badge&logo=googlecolab&labelColor=0D1117)&nbsp;
@@ -49,23 +59,15 @@ O tempo é o ativo mais importante que existe, porque ele é o mais escasso. Tod
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
 ![Notion](https://img.shields.io/badge/-notion-0D1117?style=for-the-badge&logo=notion&labelColor=0D1117)&nbsp;
   
-### Estudando no momento:
-<img align="center" alt="logo js" height="15" width="15" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"> <strong>JAVASCRIPT </strong> &nbsp;
-<img align="center" alt="logo react.js" height="15" width="15" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"> <strong>REACT.JS </strong> &nbsp;
-<img align="center" alt="logo node.js" height="15" width="15" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png"> <strong>NODE.JS </strong> &nbsp;
-<img align="center" alt="logo sql" height="15" width="15" src="https://www.freeiconspng.com/thumbs/sql-server-icon-png/sql-server-icon-png-29.png"> <strong>SQL </strong> &nbsp;
-
+### Estudando:
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
+![React.Js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![Node.Js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=sql&labelColor=0D1117)&nbsp;
 
  
   ![Snake animation](https://github.com/fernandoalvesrufino/fernandoalvesrufino/blob/output/github-contribution-grid-snake.svg)
 
-<div> 
-  <a href="https://www.linkedin.com/in/fernando-alves-rufino" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-red?color=white&logo=linkedin&logoColor=blue"></a> 
-  <a href="https://fernandoalvesrufino.github.io/meu-portfolio" target="_blank"><img src="https://img.shields.io/badge/-www%20Portfólio-red?color=blue&logo=web-site&logoColor=white"></a>
-  <a href = "mailto:devfernandorufino@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?color=%23333&logo=gmail&logoColor=white"></a>
-  <a href="https://instagram.com/devfernandorufino" target="_blank"><img src="https://img.shields.io/badge/-Instagram-red?color=DD2A7B&logo=instagram&logoColor=white"></a>
-  
-</div>
 
   <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
