@@ -29,11 +29,9 @@ Eu sou o Fernando!
 SOBRE MIM
 </h3>
 
+Sou um especialista em diagnóstico e manutenção de carros de luxo com 7 anos de experiência na área. Atualmente, estou em transição de carreira para o desenvolvimento web, focando em front-end. Tenho focado meus estudos em HTML, CSS e JavaScript, bem como no framework React.js, e estou sempre buscando aprimorar minhas habilidades através de projetos pessoais e participação em comunidades de desenvolvimento. Compartilho meus conhecimentos e projetos aqui no LinkedIn e no GitHub.
 
-Tenho 26 anos. Estou em busca de uma oportunidade na area de TI como desenvolvedor web. Logo que comecei a estudar a respeito fiquei impressionado com o que é possível fazer com programação. A possibilidade de resolver problemas, facilitar o trabalho de alguém, transformar idéias em algo real e transformar vidas! Mas o que me impressionou de verdade na área foi que a programação pode nos "dar mais TEMPO"! 
-
-O tempo é o ativo mais importante que existe, porque ele é o mais escasso. Todo mundo gostaria de ter mais. Mas, às vezes, perdemos muito do nosso tempo com tarefas repetitivas ou que demorariam muito para serem executadas. Mas a programação pode dar esse tempo de PRESENTE pra nós! Eu quero poder resolver problemas, transformar vidas, transformar idéias, facilitar o trabalho de alguém e "dar mais TEMPO" para as pessoas através da programação. 
-
+Atualmente estou participando do treinamento Explorer da Rocketseat para me aperfeiçoar nas tecnologias que utilizo. Acredito que minha experiência prévia em resolução de problemas realizando diagnósticos e trabalho em equipe será valiosa em minha nova carreira como desenvolvedor front-end. Estou animado com as possibilidades e oportunidades que a tecnologia oferece e espero contribuir muito em projetos futuros.
 
   #
 
