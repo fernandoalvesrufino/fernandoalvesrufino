@@ -16,7 +16,7 @@ Eu sou o Fernando!
 
 
 <div> 
-  <a href="https://www.linkedin.com/in/fernando-alves-rufino" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-red?color=white&logo=linkedin&logoColor=blue"></a> 
+  <a href="https://www.linkedin.com/in/fernandorufino" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-red?color=white&logo=linkedin&logoColor=blue"></a> 
   <a href="https://fernandoalvesrufino.github.io/meu-portfolio" target="_blank"><img src="https://img.shields.io/badge/-www%20Portfólio-red?color=blue&logo=web-site&logoColor=white"></a>
   <a href = "mailto:devfernandorufino@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?color=%23333&logo=gmail&logoColor=white"></a>
   <a href="https://instagram.com/devfernandorufino" target="_blank"><img src="https://img.shields.io/badge/-Instagram-red?color=DD2A7B&logo=instagram&logoColor=white"></a>
