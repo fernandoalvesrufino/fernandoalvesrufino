@@ -23,6 +23,10 @@ Eu sou o Fernando!
   
 </div>
 
+<br>
+
+<p align="center"><img align="center" src=https://github-readme-streak-stats.herokuapp.com/?user=fernandoalvesrufino&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff /></p>
+
   #
 
 <h3>
@@ -35,7 +39,7 @@ Atualmente estou participando do treinamento Explorer da Rocketseat para me aper
 
   #
 
-### Skills:
+### Tecnologias:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=css3&labelColor=0D1117&logoColor=blue)
@@ -46,7 +50,7 @@ Atualmente estou participando do treinamento Explorer da Rocketseat para me aper
 ### Frameworks:
 ![Bulma](https://img.shields.io/badge/-bulma-0D1117?style=for-the-badge&logo=bulma&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
-### Tools:
+### Ferramentas:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
 ![PyCharm](https://img.shields.io/badge/-PyCharm-0D1117?style=for-the-badge&logo=pycharm&labelColor=0D1117)&nbsp;
 ![GoogleColab](https://img.shields.io/badge/-GoogleColab-0D1117?style=for-the-badge&logo=googlecolab&labelColor=0D1117)&nbsp;
@@ -71,5 +75,3 @@ Atualmente estou participando do treinamento Explorer da Rocketseat para me aper
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{fernandoalvesrufino}/count.svg" /></p> 
 <br></div>
-
-<p align="center"><img align="center" src=https://github-readme-streak-stats.herokuapp.com/?user=fernandoalvesrufino&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff /></p>
