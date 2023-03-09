@@ -10,6 +10,7 @@ Eu sou o Fernando!
   <img align="center" alt="logo html" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/1200px-HTML5_Badge.svg.png">
   <img align="center" alt="logo css" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png">
   <img align="center" alt="logo javascript" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png">
+  <img align="center" alt="logo python" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png">
 </div>
 
 #### Desenvolvedor Web / Front-end
@@ -66,6 +67,8 @@ Atualmente estou participando do treinamento Explorer da Rocketseat para me aper
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 ![React.Js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![Node.Js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117)&nbsp;
+
+> Estudando desenvolvimento web na [Rocketseat](https://www.rocketseat.com.br/)!
 
  
   ![Snake animation](https://github.com/fernandoalvesrufino/fernandoalvesrufino/blob/output/github-contribution-grid-snake.svg)
