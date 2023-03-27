@@ -66,7 +66,7 @@ Atualmente estou participando do treinamento Explorer da Rocketseat para me aper
 ### Estudando:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 ![React.Js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![Node.Js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117)&nbsp;
+
 
 > Estudando desenvolvimento web na [Rocketseat](https://www.rocketseat.com.br/)!
 
