@@ -58,6 +58,7 @@ Atualmente estou participando do treinamento Explorer da Rocketseat para me aper
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
+![WordPress](https://img.shields.io/badge/-wordpress-0D1117?style=for-the-badge&logo=wordpress&logoColor=007ACC&labelColor=0D1117)&nbsp;
 
 ### Outros conhecimentos:
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
@@ -68,7 +69,7 @@ Atualmente estou participando do treinamento Explorer da Rocketseat para me aper
 ![React.Js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 
 
-`Estudando desenvolvimento web na [Rocketseat](https://www.rocketseat.com.br/)!`
+> Estudando desenvolvimento web na [Rocketseat](https://www.rocketseat.com.br/)!
 
  
   ![Snake animation](https://github.com/fernandoalvesrufino/fernandoalvesrufino/blob/output/github-contribution-grid-snake.svg)
