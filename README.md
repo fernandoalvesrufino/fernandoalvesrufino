@@ -69,7 +69,7 @@ Atualmente estou participando do treinamento Explorer da Rocketseat para me aper
 ![React.Js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 
 
-> Estudando desenvolvimento web na [Rocketseat](https://www.rocketseat.com.br/)!
++ Estudando desenvolvimento web na [Rocketseat](https://www.rocketseat.com.br/)!
 
  
   ![Snake animation](https://github.com/fernandoalvesrufino/fernandoalvesrufino/blob/output/github-contribution-grid-snake.svg)
